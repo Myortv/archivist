@@ -1,0 +1,6 @@
+conf/.env
+conf/__pycache__
+library/__pycache__
+travel/__pycache__
+archive/__pycache__
+env
